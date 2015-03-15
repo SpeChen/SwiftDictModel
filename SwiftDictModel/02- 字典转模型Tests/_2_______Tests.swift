@@ -1,15 +1,15 @@
 //
-//  _22Tests.swift
-//  222Tests
+//  _2_______Tests.swift
+//  02- 字典转模型Tests
 //
-//  Created by coderCSF on 15/3/15.
+//  Created by coderCSF on 15/3/13.
 //  Copyright (c) 2015年 coderCSF. All rights reserved.
 //
 
 import UIKit
 import XCTest
 
-class _22Tests: XCTestCase {
+class _2_______Tests: XCTestCase {
     
     override func setUp() {
         super.setUp()

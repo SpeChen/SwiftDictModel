@@ -1,8 +1,8 @@
 //
 //  AppDelegate.swift
-//  222
+//  02- 字典转模型
 //
-//  Created by coderCSF on 15/3/15.
+//  Created by coderCSF on 15/3/13.
 //  Copyright (c) 2015年 coderCSF. All rights reserved.
 //
 
